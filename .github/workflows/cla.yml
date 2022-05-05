@@ -26,7 +26,7 @@ jobs:
         with:
           # [required]
           # label to add when actor has signed the CLA
-          label: cla-signed-test
+          label: cla-signed
           # [required]
           # the GitHub Personal Access Token to comment and label with
           token: ${{ github.token }}
