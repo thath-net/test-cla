@@ -1,4 +1,4 @@
-name: Contributor license agreement (CLA)
+name: CLA
 
 on:
   issue_comment:
